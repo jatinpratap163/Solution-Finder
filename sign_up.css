@@ -1,0 +1,28 @@
+h1 {
+    font-size: 40px;
+}
+div {
+    border: 2px solid;
+    border-radius: 0.70rem;
+    padding: 40px;
+    font-size: 25px;
+    width: 50%;
+    margin: auto;
+    font-family: sans-serif;
+
+}
+button {
+    font-size: 25px;
+    background-color: blue;
+    color: white;
+    border-radius: 0.25rem;
+}
+
+input {
+    width: 100%;
+    font-size: 25px;
+}
+    
+img {
+    height: 70px;
+}
